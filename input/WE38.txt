@@ -1,0 +1,5 @@
+SIM_CODE    ROTATION_YEARS  START_YEAR  END_YEAR    USE_REINIT  CROP_FILE   OPERATION_FILE      SOIL_FILE   WEATHER_FILE    REINIT_FILE HOURLY_INFILTRATION AUTOMATIC_NITROGEN
+WE38-1      8               2000        2015        0           WE38.crop   corn-1.operation    WE38.soil   WE38.weather    N/A         1                   0
+WE38-2      8               2000        2015        0           WE38.crop   corn-2.operation    WE38.soil   WE38.weather    N/A         1                   0
+WE38-3      8               2000        2015        0           WE38.crop   corn-3.operation    WE38.soil   WE38.weather    N/A         1                   0
+WE38-4      8               2000        2015        0           WE38.crop   corn-4.operation    WE38.soil   WE38.weather    N/A         1                   0

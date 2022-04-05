@@ -1,0 +1,1103 @@
+# Corn (2)-soybean-corn-hay (4)
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                1
+DOY                 101
+TOOL                Sprgplot
+DEPTH               0.125       # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.5
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+PLANTING
+YEAR                1
+DOY                 105
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                Alfalfa
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.25
+CLIPPING_START      -999
+CLIPPING_END        -999
+
+PLANTING
+YEAR                1
+DOY                 105
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                Orchardgrass
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.5
+CLIPPING_START      -999
+CLIPPING_END        -999
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                1
+DOY                 206
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                1
+DOY                 206
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                1
+DOY                 258
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                1
+DOY                 258
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 259
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                2
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                2
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                2
+DOY                 206
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                2
+DOY                 206
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                2
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                2
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                2
+DOY                 283
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                2
+DOY                 283
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                3
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                3
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                3
+DOY                 201
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                3
+DOY                 201
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 202
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                3
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                3
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                3
+DOY                 283
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                3
+DOY                 283
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                4
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 166
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                4
+DOY                 201
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 201
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 202
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                4
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 242
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                4
+DOY                 303
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 303
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 303
+TOOL                Kill_Crop
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Alfalfa
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                4
+DOY                 303
+TOOL                Kill_Crop
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Orchardgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                5
+DOY                 101
+TOOL                Mldbge10
+DEPTH               0.15        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.95
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                5
+DOY                 102
+TOOL                Dkplge23
+DEPTH               0.10        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.85
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+PLANTING
+YEAR                5
+DOY                 121
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                CornRM.90
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.75
+CLIPPING_START      1
+CLIPPING_END        366
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                6
+DOY                 101
+TOOL                Mldbge10
+DEPTH               0.15        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.95
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                6
+DOY                 102
+TOOL                Dkplge23
+DEPTH               0.10        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.85
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+PLANTING
+YEAR                6
+DOY                 121
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                CornRM.90
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.75
+CLIPPING_START      1
+CLIPPING_END        366
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 100
+SOURCE              BEEF-FR
+MASS                1875.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                7
+DOY                 102
+TOOL                Dkplge23
+DEPTH               0.10        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.85
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+PLANTING
+YEAR                7
+DOY                 121
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                SoybeanMG.4
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.75
+CLIPPING_START      1
+CLIPPING_END        366
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                8
+DOY                 101
+TOOL                Mldbge10
+DEPTH               0.15        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.95
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+TILLAGE
+YEAR                8
+DOY                 102
+TOOL                Dkplge23
+DEPTH               0.10        # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.85
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+PLANTING
+YEAR                8
+DOY                 121
+END_DOY             -999
+MAX_SMC             -999        # m3/m3
+MIN_SMC             0.0         # m3/m3
+MIN_SOIL_TEMP       0.0         # C
+CROP                CornRM.90
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.75
+CLIPPING_START      1
+CLIPPING_END        366
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+LAYER               1
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
